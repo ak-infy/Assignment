@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InterViewAssignment</string>
+    <string name="contentDescription">IMAGE</string>
+    <string name="retry">Retry</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="internet_description">Check your mobile data or Wi-Fi connection.</string>
+    <string name="online_data_message">Showing Online data.</string>
+    <string name="cached_data_message">Showing Offline Cached data.</string>
+    <string name="not_cached_message">The data has not been Cached so far</string>
+    <string name="backend_error_message">Null Object sent by the backend</string>
+</resources>
